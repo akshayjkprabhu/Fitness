@@ -1,4 +1,4 @@
-package com.ajp.fitness.fitness.core;
+package com.ajp.fitness.utils.fitness.core;
 
 import android.support.annotation.NonNull;
 

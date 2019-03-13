@@ -1,4 +1,4 @@
-package com.ajp.fitness.fitness.core;
+package com.ajp.fitness.utils.fitness.core;
 
 /*
  * Created by akshay on 5/3/19.
